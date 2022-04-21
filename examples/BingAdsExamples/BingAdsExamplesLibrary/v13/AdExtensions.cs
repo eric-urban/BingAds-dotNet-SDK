@@ -11,8 +11,8 @@ using Microsoft.BingAds;
 namespace BingAdsExamplesLibrary.V13
 {
     /// <summary>
-    /// How to manage ad extensions for an account's ad extension library, 
-    /// associate the extensions with a campaign, and determine why an extension failed 
+    /// How to manage ad extensions in an account's ad extension library, 
+    /// associate the extensions with a campaign, and determine why the extension failed 
     /// editorial review.
     /// </summary>
     public class AdExtensions : ExampleBase
